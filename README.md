@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @odhjustingabriel
-- 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning computer science as a first year student recently joined
+- 👋 Hi, @odhjustingabriel here.
+- 🌱 I'm Odhiambo Justin Gabriel, a CS major.
 - 💞️ I’m looking to collaborate on anything that can be helpful
 - 📫 How to reach me ; odhjustingabriel@gmail.com
 
