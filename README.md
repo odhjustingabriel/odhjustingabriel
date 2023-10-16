@@ -1,6 +1,6 @@
 - 👋 Hi, @odhjustingabriel here.
 - 🌱 I'm Odhiambo Justin Gabriel, a CS major.
-- 💞️ I’m looking to collaborate on anything that can be helpful
+- 💞️ Looking to collaborate on anything that can be helpful
 - 📫 How to reach me ; odhjustingabriel@gmail.com
 
 <!---
