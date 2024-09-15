@@ -1,7 +1,4 @@
-- 👋 Hi, @odhjustingabriel here.
-- 🌱 I'm Odhiambo Justin Gabriel, a CS major.
-- 💞️ Looking to collaborate on anything that can be helpful
-- 📫 How to reach me ; odhjustingabriel@gmail.com
+Junior Developer with an interest in Cyber Security and back end development
 
 <!---
 odhjustingabriel/odhjustingabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
