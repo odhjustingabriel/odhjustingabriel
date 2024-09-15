@@ -1,4 +1,4 @@
-Junior Developer with an interest in Cyber Security and back end development
+Junior Developer with an interest back end development and passion for fields such as CyberSecurity
 
 <!---
 odhjustingabriel/odhjustingabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
