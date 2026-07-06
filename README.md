@@ -51,7 +51,7 @@ I'm building my cybersecurity foundation through networking, defensive security,
 
 ## 🔐 Middleware & Backend Projects
 
-### 💳 [OpenFloat M-Pesa Middleware Platform]()
+### 💳 OpenFloat M-Pesa Middleware Platform
 **Java • Spring Boot • PostgreSQL • Docker • REST APIs • OAuth**
 
 Enterprise middleware providing a secure integration layer between internal business applications and Safaricom M-Pesa APIs.
@@ -88,7 +88,7 @@ Secure IT helpdesk application featuring authentication, role-based access contr
 
 ---
 
-### 📒 [Incident Handler's Journal]()
+### 📒 Incident Handler's Journal
 **Network Analysis • Digital Forensics • Incident Response**
 
 Collection of documented security investigations covering phishing analysis, suspicious network activity, and incident response exercises.
