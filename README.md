@@ -46,7 +46,7 @@ My experience combines backend software engineering with cybersecurity principle
 
 ## 🔒 Security Projects
 
-### 🛡️ Security Hardening using NIST Cybersecurity Framework
+### 🛡️ [Security Hardening using NIST Cybersecurity Framework](https://github.com/odhjustingabriel/Htundla-Safaris)
 **Tools:** NIST CSF • Risk Assessment • Security Controls
 
 Comprehensive security posture assessment using the NIST Cybersecurity Framework, identifying risks and recommending security improvements.
@@ -71,7 +71,7 @@ Enterprise middleware that securely integrates internal systems with Safaricom M
 
 ## 🌐 Full-Stack Projects
 
-### 🌍 Htundla Safaris
+### 🌍 [Htundla Safaris](https://github.com/odhjustingabriel/Htundla-Safaris)
 **Tools:** Django • PostgreSQL • HTML • CSS • JavaScript
 
 Tourism and travel management platform featuring destination listings, bookings, and administrative functionality.
