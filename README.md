@@ -99,10 +99,12 @@ Full-stack tourism platform supporting destination management, bookings, and adm
 
 ---
 
-### 🏥 [Puodho](https://github.com/odhjustingabriel/Puodho)
-**Tools:** Django • PostgreSQL • HTML • CSS • JavaScript
+### 🌾 [Puodho Farm Website](https://github.com/odhjustingabriel/Puodho)
 
-Healthcare management platform designed to streamline patient interactions, appointments, and medical record management.
+**Django • SQLite • HTML • CSS • JavaScript**
+
+Full-stack web application for a rural farm business, enabling customers to browse products and submit structured order requests for fresh produce through a streamlined, non-e-commerce ordering system.
+
 
 ---
 
