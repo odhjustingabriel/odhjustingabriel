@@ -8,9 +8,11 @@
 
 # 🛡️ Professional Summary
 
-Computer Science student and aspiring **Cybersecurity Engineer** with a strong interest in secure software development, IAM Systems and defensive cybersecurity.
+Computer Science student with a growing foundation in cybersecurity, secure software engineering, and backend development.
 
-My experience combines backend software engineering with cybersecurity principles, focusing on designing secure systems rather than simply building functional ones. I enjoy analyzing how systems fail, implementing security controls, and developing software that is resilient against modern threats.
+My interests are centered on defensive cybersecurity, particularly network security and Security Operations (SOC). Through academic projects, cybersecurity labs, and software development, I have gained experience designing secure applications, developing backend services, and applying security principles to real-world systems.
+
+I enjoy understanding how systems operate, identifying potential security weaknesses, and building solutions that prioritize resilience, maintainability, and security by design. I am currently expanding my expertise in networking and defensive security while preparing for a career in Security Operations.
 
 ---
 
@@ -36,8 +38,8 @@ I'm building my cybersecurity foundation through networking, defensive security,
 
 ### Completed
 
-- [IBM SkillsBuild Cybersecurity Certificate](https://www.credly.com/badges/b9ec63ca-810d-4a33-8249-e94a6b592806) 
-- [Moringa Cybersecurity Certificate](https://moringa.my.salesforce-sites.com/certificateStatus?id=a0PQ2000008HyLo)
+- IBM SkillsBuild Cybersecurity Certificate[Credential Link](https://www.credly.com/badges/b9ec63ca-810d-4a33-8249-e94a6b592806) 
+- Moringa Cybersecurity Certificate[Credential Link](https://moringa.my.salesforce-sites.com/certificateStatus?id=a0PQ2000008HyLo)
 
 ### Currently Pursuing
 
@@ -113,73 +115,105 @@ Full-stack web application for a rural farm business, enabling customers to brow
 
 # 🛠 Technical Skills
 
-| Category | Tools & Technologies |
-|-----------|--------------|
-| **Programming** | Java, Python, C#, SQL |
-| **Backend Development** | Django, Spring Boot, ASP.NET |
-| **Databases** | PostgreSQL, MySQL, SQLite |
-| **Security** | Secure SDLC |
-| **API Development** | REST APIs, JSON, OAuth |
-| **Payment Systems** | M-Pesa Daraja API |
-| **Version Control** | Git, GitHub |
-| **Development Tools** | Docker |
-| **Detection & Response** | Wazuh SIEM |
-| **SOAR & Automation** | Python (Scripting), Bash |
-| **Network Security** | Wireshark, Tcpdump, Nmap, SSL/TLS (OpenSSL) |
-| **Analysis & Intel** | VirusTotal API, Log Analysis (Apache, Syslog, SIEM) |
-| **Compliance & Frameworks** | MITRE ATT&CK, NIST CSF, OWASP Top 10 |
-| **Virtualization** | Linux (Ubuntu/Kali), Windows, UTM Hypervisor |
+# 🛠 Technical Skills
+
+| Category | Skills |
+|-----------|--------|
+| **Secure Software Engineering** | Secure SDLC, REST API Design, Authentication & Authorization |
+| **Security Operations** | Security Monitoring, Incident Triage, Log Analysis, Threat Detection |
+| **Network Security** | Network Traffic Analysis, Packet Inspection, Network Troubleshooting |
+| **Risk & Governance** | Risk Assessment, Security Auditing, Security Control Evaluation |
+| **Security Frameworks** | NIST CSF, MITRE ATT&CK, OWASP Top 10 |
 
 ---
 
 # ⚡ Technology Stack
 
-### Programming
+# ⚡ Technology Stack
+
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Backend
+---
+
+### ⚙️ Backend & Databases
 
 <p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### Security
+---
+
+### 🔐 Security & Networking
 
 <p>
+<img src="https://img.shields.io/badge/Wazuh-005E99?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-750014?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 APIs, Authentication & Integration
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/M--Pesa_Daraja-00A651?style=for-the-badge"/>
+</p>
+
+---
+
+### 🚀 DevOps & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/UTM-6C47FF?style=for-the-badge"/>
 </p>
 
 ---
 
 # 📚 Current Learning
 
-Currently strengthening my skills in
+Currently expanding my knowledge in preparation for a career in Security Operations through hands-on labs, practical projects, and continuous study.
 
-- Network Security
-- Application Security
-- Secure Authentication
-- Threat Detection
-- Secure Payment Systems
+- Computer Networking & Network Security
+- Security Operations (SOC) Fundamentals
+- Threat Detection & Incident Response
+- Secure Authentication & Identity Fundamentals
+- CompTIA Security+ (SY0-701)
 
 ---
 
 # 🎯 Career Goal
 
-My goal is to become a Cybersecurity Engineer specializing in secure application development, cloud security, and enterprise systems. I am particularly interested in protecting financial platforms, APIs, and critical infrastructure by integrating security throughout the software development lifecycle.
+My immediate goal is to begin my cybersecurity career in a Security Operations Center (SOC), where I can strengthen my skills in network monitoring, incident detection, threat analysis, and incident response.
+
+As I grow professionally, I aim to specialize in Identity and Access Management (IAM) and Threat Intelligence, contributing to the design of secure enterprise environments and helping organizations proactively defend against evolving cyber threats through effective identity governance and intelligence-driven security operations.
 
 ---
 
