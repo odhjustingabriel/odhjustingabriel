@@ -14,18 +14,21 @@ My experience combines backend software engineering with cybersecurity principle
 
 ---
 
-# 🎯 Areas of Interest
+# 🎯 Current Focus
 
-- Application Security
-- Secure Software Engineering
-- Backend Development
-- Payment Security
-- API Security
-- Cloud Security
+I'm building my cybersecurity foundation through networking, defensive security, and secure software engineering, with the goal of transitioning into a Security Operations Center (SOC) role before specializing in Identity and Access Management (IAM) and Threat Intelligence.
+
+### Current Areas of Interest
+- Computer Networking
 - Network Security
-- Digital Forensics
+- Security Operations (SOC)
+- Secure Software Engineering
+- Incident Detection & Response
+
+### Future Specializations
+- Identity & Access Management (IAM)
+- Threat Intelligence
 - Security Automation
-- Threat Detection
 
 ---
 
