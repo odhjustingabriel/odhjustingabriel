@@ -46,26 +46,47 @@ My experience combines backend software engineering with cybersecurity principle
 
 ## 🔒 Security Projects
 
-### 🛡️ [Security Hardening using NIST Cybersecurity Framework](https://github.com/odhjustingabriel/Htundla-Safaris)
-**Tools:** NIST CSF • Risk Assessment • Security Controls
+### 🛡️ [Security Hardening using NIST Cybersecurity Framework](https://github.com/odhjustingabriel/security-hardening-NIST-CSF)
+NIST CSF • Risk Assessment • Security Controls
 
-Comprehensive security posture assessment using the NIST Cybersecurity Framework, identifying risks and recommending security improvements.
+Comprehensive security posture assessment using the NIST Cybersecurity Framework, identifying organizational risks and recommending security improvements.
 
 ---
 
-### 🚨 Incident Handler's Journal
-**Tools:** Network Analysis • Incident Response • Digital Forensics
+### 🚨 [BEC Triage System](https://github.com/odhjustingabriel/bec-triage-system)
+**Tools:** Python • Email Security • Threat Analysis
 
-Collection of documented security investigations covering phishing analysis, suspicious network traffic, and incident response activities.
+Desktop tool that assists security analysts in triaging Business Email Compromise (BEC) incidents by collecting and organizing email artifacts for investigation.
+
+---
+
+### 🔍 [IOC Triage Tool](https://github.com/odhjustingabriel/ioc-triage-tool)
+**Tools:** Python • VirusTotal API • Threat Intelligence • REST APIs
+
+Security utility for analyzing Indicators of Compromise (IOCs) by enriching IP addresses, domains, URLs, and file hashes with threat intelligence.
+
+---
+
+### 🔐 [Secure IT Helpdesk](https://github.com/odhjustingabriel/secure-IT-helpdesk-ticketing-system)
+**Tools:** Django • PostgreSQL • Authentication • Role-Based Access Control
+
+Secure IT helpdesk application featuring authentication, role-based access control, ticket management, and audit-focused system design.
+
+---
+
+### 📒 [Incident Handler's Journal]()
+**Tools:** Network Analysis • Digital Forensics • Incident Response
+
+Collection of documented security investigations covering phishing analysis, suspicious network activity, and incident response exercises.
 
 ---
 
 ## 🔐 Middleware & Backend Projects
 
-### 💳 OpenFloat M-Pesa Middleware Platform
+### 💳 [OpenFloat M-Pesa Middleware Platform]()
 **Tools:** Java • Spring Boot • PostgreSQL • Docker • REST APIs • OAuth
 
-Enterprise middleware that securely integrates internal systems with Safaricom M-Pesa APIs through a unified REST interface.
+Enterprise middleware providing a secure integration layer between internal business applications and Safaricom M-Pesa APIs.
 
 ---
 
@@ -74,7 +95,14 @@ Enterprise middleware that securely integrates internal systems with Safaricom M
 ### 🌍 [Htundla Safaris](https://github.com/odhjustingabriel/Htundla-Safaris)
 **Tools:** Django • PostgreSQL • HTML • CSS • JavaScript
 
-Tourism and travel management platform featuring destination listings, bookings, and administrative functionality.
+Full-stack tourism platform supporting destination management, bookings, and administrative operations.
+
+---
+
+### 🏥 [Puodho](https://github.com/odhjustingabriel/Puodho)
+**Tools:** Django • PostgreSQL • HTML • CSS • JavaScript
+
+Healthcare management platform designed to streamline patient interactions, appointments, and medical record management.
 
 ---
 
