@@ -115,8 +115,6 @@ Full-stack web application for a rural farm business, enabling customers to brow
 
 # 🛠 Technical Skills
 
-# 🛠 Technical Skills
-
 | Category | Skills |
 |-----------|--------|
 | **Secure Software Engineering** | Secure SDLC, REST API Design, Authentication & Authorization |
@@ -126,8 +124,6 @@ Full-stack web application for a rural farm business, enabling customers to brow
 | **Security Frameworks** | NIST CSF, MITRE ATT&CK, OWASP Top 10 |
 
 ---
-
-# ⚡ Technology Stack
 
 # ⚡ Technology Stack
 
