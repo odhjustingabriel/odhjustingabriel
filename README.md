@@ -42,46 +42,39 @@ My experience combines backend software engineering with cybersecurity principle
 
 ---
 
-# 🚀 Featured Security Projects
+# 🚀 Projects
 
-## 🔐 OpenFloat M-Pesa Middleware Platform
+## 🔒 Security Projects
 
-**Java • Spring Boot • PostgreSQL • REST APIs • OAuth • Docker**
+### 🛡️ Security Hardening using NIST Cybersecurity Framework
+**Tools:** NIST CSF • Risk Assessment • Security Controls
 
-Developing secure middleware that serves as a unified gateway between enterprise applications and Safaricom M-Pesa APIs.
-
-Highlights
-
-- Secure REST API architecture
-- Authentication and authorization
-- Transaction validation
-- Enterprise backend design
-- Financial systems integration
-- API abstraction layer
+Comprehensive security posture assessment using the NIST Cybersecurity Framework, identifying risks and recommending security improvements.
 
 ---
 
-## 🛡️ Security Hardening using NIST Cybersecurity Framework
+### 🚨 Incident Handler's Journal
+**Tools:** Network Analysis • Incident Response • Digital Forensics
 
-**NIST CSF • Risk Assessment • Incident Analysis**
-
-Performed an in-depth security posture assessment using the NIST Cybersecurity Framework, identifying organizational risks, recommending mitigation strategies, and documenting security improvements.
-
-Focus Areas
-
-- Risk Identification
-- Security Controls
-- Framework Mapping
-- Incident Analysis
-- Governance
+Collection of documented security investigations covering phishing analysis, suspicious network traffic, and incident response activities.
 
 ---
 
-## 🌍 Htundla Safaris
+## 🔐 Middleware & Backend Projects
 
-**Full Stack Development**
+### 💳 OpenFloat M-Pesa Middleware Platform
+**Tools:** Java • Spring Boot • PostgreSQL • Docker • REST APIs • OAuth
 
-Designed and developed a scalable tourism platform while applying secure development practices including authentication, data validation, structured database design, and maintainable architecture.
+Enterprise middleware that securely integrates internal systems with Safaricom M-Pesa APIs through a unified REST interface.
+
+---
+
+## 🌐 Full-Stack Projects
+
+### 🌍 Htundla Safaris
+**Tools:** Django • PostgreSQL • HTML • CSS • JavaScript
+
+Tourism and travel management platform featuring destination listings, bookings, and administrative functionality.
 
 ---
 
