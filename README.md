@@ -68,14 +68,14 @@ Comprehensive security posture assessment using the NIST Cybersecurity Framework
 ---
 
 ### 🚨 [BEC Triage System](https://github.com/odhjustingabriel/bec-triage-system)
-**Python • Email Security • Threat Analysis**
+**Python • Email Security • Cyber Threat Analysis**
 
 Desktop tool that assists security analysts in triaging Business Email Compromise (BEC) incidents by collecting and organizing email artifacts for investigation.
 
 ---
 
 ### 🔍 [IOC Triage Tool](https://github.com/odhjustingabriel/ioc-triage-tool)
-**Python • Threat Intelligence • REST APIs**
+**Python • Threat Intelligence • Cyber Threat Analysis**
 
 Security utility for analyzing Indicators of Compromise (IOCs) by enriching IP addresses, domains, URLs, and file hashes with threat intelligence.
 
