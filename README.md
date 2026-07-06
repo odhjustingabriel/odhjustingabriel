@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Justin Gabriel
+# 👋 Hello, I'm Odhiambo Justin Gabriel
 
 <a href="https://www.linkedin.com/in/odhiambo-justin-gabriel/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,7 +27,7 @@ I'm building my cybersecurity foundation through networking, defensive security,
 - Secure Software Engineering
 - Incident Detection & Response
 
-### Future Specializations
+### Long Term Interests
 - Identity & Access Management (IAM)
 - Threat Intelligence
 - Security Automation
@@ -38,8 +38,8 @@ I'm building my cybersecurity foundation through networking, defensive security,
 
 ### Completed
 
-- IBM SkillsBuild Cybersecurity Certificate [Credential Link](https://www.credly.com/badges/b9ec63ca-810d-4a33-8249-e94a6b592806) 
-- Moringa Cybersecurity Certificate [Credential Link](https://moringa.my.salesforce-sites.com/certificateStatus?id=a0PQ2000008HyLo)
+- [IBM SkillsBuild Cybersecurity Certificate](https://www.credly.com/badges/b9ec63ca-810d-4a33-8249-e94a6b592806) 
+- [Moringa Cybersecurity Certificate](https://moringa.my.salesforce-sites.com/certificateStatus?id=a0PQ2000008HyLo)
 
 ### Currently Pursuing
 
@@ -48,6 +48,15 @@ I'm building my cybersecurity foundation through networking, defensive security,
 ---
 
 # 🚀 Projects
+
+## 🔐 Middleware & Backend Projects
+
+### 💳 [OpenFloat M-Pesa Middleware Platform]()
+**Java • Spring Boot • PostgreSQL • Docker • REST APIs • OAuth**
+
+Enterprise middleware providing a secure integration layer between internal business applications and Safaricom M-Pesa APIs.
+
+---
 
 ## 🔒 Security Projects
 
@@ -86,15 +95,6 @@ Collection of documented security investigations covering phishing analysis, sus
 
 ---
 
-## 🔐 Middleware & Backend Projects
-
-### 💳 [OpenFloat M-Pesa Middleware Platform]()
-**Java • Spring Boot • PostgreSQL • Docker • REST APIs • OAuth**
-
-Enterprise middleware providing a secure integration layer between internal business applications and Safaricom M-Pesa APIs.
-
----
-
 ## 🌐 Full-Stack Projects
 
 ### 🌍 [Htundla Safaris](https://github.com/odhjustingabriel/Htundla-Safaris)
@@ -109,7 +109,6 @@ Full-stack tourism platform supporting destination management, bookings, and adm
 **Django • SQLite • HTML • CSS • JavaScript**
 
 Full-stack web application for a rural farm business, enabling customers to browse products and submit structured order requests for fresh produce through a streamlined, non-e-commerce ordering system.
-
 
 ---
 
