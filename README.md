@@ -11,11 +11,9 @@
 
 # 🛡️ Professional Summary
 
-Computer Science student and aspiring **Cybersecurity Engineer** with a strong interest in secure software development, application security, cloud security, and defensive cybersecurity.
+Computer Science student and aspiring **Cybersecurity Engineer** with a strong interest in secure software development, IAM Systems and defensive cybersecurity.
 
 My experience combines backend software engineering with cybersecurity principles, focusing on designing secure systems rather than simply building functional ones. I enjoy analyzing how systems fail, implementing security controls, and developing software that is resilient against modern threats.
-
-Currently undertaking an industrial attachment developing enterprise-grade backend services while expanding my expertise in secure application development, payment systems, and cybersecurity engineering.
 
 ---
 
@@ -50,7 +48,7 @@ Currently undertaking an industrial attachment developing enterprise-grade backe
 
 # 🚀 Featured Security Projects
 
-## 🔐 OpenFloat M-Pesa Middleware Platform *(Current Industrial Attachment)*
+## 🔐 OpenFloat M-Pesa Middleware Platform
 
 **Java • Spring Boot • PostgreSQL • REST APIs • OAuth • Docker**
 
@@ -91,26 +89,18 @@ Designed and developed a scalable tourism platform while applying secure develop
 
 ---
 
-## 💰 Kazi Chap Chap
-
-**ASP.NET • PostgreSQL**
-
-Expense and budget management system featuring secure authentication, CRUD operations, relational database design, and financial data management.
-
----
-
 # 🛠 Technical Skills
 
 | Category | Technologies |
 |-----------|--------------|
 | Programming | Java, Python, C#, SQL |
-| Backend Development | Spring Boot, ASP.NET |
+| Backend Development | Django, Spring Boot, ASP.NET |
 | Databases | PostgreSQL, MySQL |
 | Security | Secure SDLC, NIST CSF, OWASP Top 10 |
 | API Development | REST APIs, JSON, OAuth |
 | Payment Systems | M-Pesa APIs |
 | Version Control | Git, GitHub |
-| Development Tools | Postman, Docker |
+| Development Tools | Docker |
 | Operating Systems | Linux, Windows |
 
 ---
@@ -155,20 +145,8 @@ Currently strengthening my skills in
 - Secure API Development
 - Application Security
 - Secure Authentication
-- Cloud Security
-- Docker
-- Kubernetes
-- AWS
 - Threat Detection
 - Secure Payment Systems
-
----
-
-# 🔬 Research
-
-### Biometric Student Attendance System
-
-Academic research focused on designing and implementing a secure biometric attendance management solution, emphasizing authentication, system integrity, database security, and usability.
 
 ---
 
@@ -180,9 +158,9 @@ My goal is to become a Cybersecurity Engineer specializing in secure application
 
 # 📫 Connect With Me
 
-- LinkedIn: **YOUR_LINKEDIN**
-- Email: **YOUR_EMAIL**
-- Portfolio: **YOUR_PORTFOLIO**
+- LinkedIn: **https://www.linkedin.com/in/odhiambo-justin-gabriel/**
+- Email: **odhjustingabriel@gmail.com**
+- Portfolio: **N/A**
 
 ---
 
