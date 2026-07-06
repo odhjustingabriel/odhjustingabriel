@@ -158,7 +158,7 @@ My goal is to become a Cybersecurity Engineer specializing in secure application
 
 # 📫 Connect With Me
 
-- LinkedIn: **https://www.linkedin.com/in/odhiambo-justin-gabriel/**
+- LinkedIn: **[Odhiambo JustinGabriel] (https://www.linkedin.com/in/odhiambo-justin-gabriel/)**
 - Email: **odhjustingabriel@gmail.com**
 - Portfolio: **N/A**
 
