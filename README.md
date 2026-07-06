@@ -1,6 +1,189 @@
-Junior Developer with an interest back end development and passion for fields such as CyberSecurity.
+# 👋 Hello, I'm Justin Gabriel
 
-<!---
-odhjustingabriel/odhjustingabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+# 🛡️ Professional Summary
+
+Computer Science student and aspiring **Cybersecurity Engineer** with a strong interest in secure software development, application security, cloud security, and defensive cybersecurity.
+
+My experience combines backend software engineering with cybersecurity principles, focusing on designing secure systems rather than simply building functional ones. I enjoy analyzing how systems fail, implementing security controls, and developing software that is resilient against modern threats.
+
+Currently undertaking an industrial attachment developing enterprise-grade backend services while expanding my expertise in secure application development, payment systems, and cybersecurity engineering.
+
+---
+
+# 🎯 Areas of Interest
+
+- Application Security
+- Secure Software Engineering
+- Backend Development
+- Payment Security
+- API Security
+- Cloud Security
+- Network Security
+- Digital Forensics
+- Security Automation
+- Threat Detection
+
+---
+
+# 📜 Certifications
+
+### Completed
+
+- Google Cybersecurity Professional Certificate
+- Cisco Introduction to Cybersecurity
+
+### Currently Pursuing
+
+- CompTIA Security+ (SY0-701)
+- AWS Cloud Practitioner
+
+---
+
+# 🚀 Featured Security Projects
+
+## 🔐 OpenFloat M-Pesa Middleware Platform *(Current Industrial Attachment)*
+
+**Java • Spring Boot • PostgreSQL • REST APIs • OAuth • Docker**
+
+Developing secure middleware that serves as a unified gateway between enterprise applications and Safaricom M-Pesa APIs.
+
+Highlights
+
+- Secure REST API architecture
+- Authentication and authorization
+- Transaction validation
+- Enterprise backend design
+- Financial systems integration
+- API abstraction layer
+
+---
+
+## 🛡️ Security Hardening using NIST Cybersecurity Framework
+
+**NIST CSF • Risk Assessment • Incident Analysis**
+
+Performed an in-depth security posture assessment using the NIST Cybersecurity Framework, identifying organizational risks, recommending mitigation strategies, and documenting security improvements.
+
+Focus Areas
+
+- Risk Identification
+- Security Controls
+- Framework Mapping
+- Incident Analysis
+- Governance
+
+---
+
+## 🌍 Htundla Safaris
+
+**Full Stack Development**
+
+Designed and developed a scalable tourism platform while applying secure development practices including authentication, data validation, structured database design, and maintainable architecture.
+
+---
+
+## 💰 Kazi Chap Chap
+
+**ASP.NET • PostgreSQL**
+
+Expense and budget management system featuring secure authentication, CRUD operations, relational database design, and financial data management.
+
+---
+
+# 🛠 Technical Skills
+
+| Category | Technologies |
+|-----------|--------------|
+| Programming | Java, Python, C#, SQL |
+| Backend Development | Spring Boot, ASP.NET |
+| Databases | PostgreSQL, MySQL |
+| Security | Secure SDLC, NIST CSF, OWASP Top 10 |
+| API Development | REST APIs, JSON, OAuth |
+| Payment Systems | M-Pesa APIs |
+| Version Control | Git, GitHub |
+| Development Tools | Postman, Docker |
+| Operating Systems | Linux, Windows |
+
+---
+
+# ⚡ Technology Stack
+
+### Programming
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### Security
+
+<p>
+<img src="https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+# 📚 Current Learning
+
+Currently strengthening my skills in
+
+- CompTIA Security+
+- Secure API Development
+- Application Security
+- Secure Authentication
+- Cloud Security
+- Docker
+- Kubernetes
+- AWS
+- Threat Detection
+- Secure Payment Systems
+
+---
+
+# 🔬 Research
+
+### Biometric Student Attendance System
+
+Academic research focused on designing and implementing a secure biometric attendance management solution, emphasizing authentication, system integrity, database security, and usability.
+
+---
+
+# 🎯 Career Goal
+
+My goal is to become a Cybersecurity Engineer specializing in secure application development, cloud security, and enterprise systems. I am particularly interested in protecting financial platforms, APIs, and critical infrastructure by integrating security throughout the software development lifecycle.
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: **YOUR_LINKEDIN**
+- Email: **YOUR_EMAIL**
+- Portfolio: **YOUR_PORTFOLIO**
+
+---
+
+> *"Security is not a feature added at the end of development—it is an engineering discipline built into every decision."*
