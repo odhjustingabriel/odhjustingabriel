@@ -38,8 +38,8 @@ I'm building my cybersecurity foundation through networking, defensive security,
 
 ### Completed
 
-- IBM SkillsBuild Cybersecurity Certificate[Credential Link](https://www.credly.com/badges/b9ec63ca-810d-4a33-8249-e94a6b592806) 
-- Moringa Cybersecurity Certificate[Credential Link](https://moringa.my.salesforce-sites.com/certificateStatus?id=a0PQ2000008HyLo)
+- IBM SkillsBuild Cybersecurity Certificate [Credential Link](https://www.credly.com/badges/b9ec63ca-810d-4a33-8249-e94a6b592806) 
+- Moringa Cybersecurity Certificate [Credential Link](https://moringa.my.salesforce-sites.com/certificateStatus?id=a0PQ2000008HyLo)
 
 ### Currently Pursuing
 
