@@ -8,7 +8,7 @@
 
 # 🛡️ Professional Summary
 
-Computer Science student with a growing foundation in cybersecurity, secure software engineering, and backend development.
+Final-year Computer Science student with a growing foundation in cybersecurity, secure software engineering, and backend development.
 
 My interests are centered on defensive cybersecurity, particularly network security and Security Operations (SOC). Through academic projects, cybersecurity labs, and software development, I have gained experience designing secure applications, developing backend services, and applying security principles to real-world systems.
 
