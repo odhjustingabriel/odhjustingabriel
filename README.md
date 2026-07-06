@@ -36,13 +36,12 @@ My experience combines backend software engineering with cybersecurity principle
 
 ### Completed
 
-- Google Cybersecurity Professional Certificate
-- Cisco Introduction to Cybersecurity
+- [IBM SkillsBuild Cybersecurity Certificate](https://www.credly.com/badges/b9ec63ca-810d-4a33-8249-e94a6b592806) 
+- [Moringa Cybersecurity Certificate](https://moringa.my.salesforce-sites.com/certificateStatus?id=a0PQ2000008HyLo)
 
 ### Currently Pursuing
 
 - CompTIA Security+ (SY0-701)
-- AWS Cloud Practitioner
 
 ---
 
@@ -141,8 +140,7 @@ Designed and developed a scalable tourism platform while applying secure develop
 
 Currently strengthening my skills in
 
-- CompTIA Security+
-- Secure API Development
+- Network Security
 - Application Security
 - Secure Authentication
 - Threat Detection
@@ -159,9 +157,8 @@ My goal is to become a Cybersecurity Engineer specializing in secure application
 # 📫 Connect With Me
 
 - LinkedIn: **[Odhiambo Justin Gabriel](https://www.linkedin.com/in/odhiambo-justin-gabriel/)**
-- Email: **odhjustingabriel@gmail.com**
-- Portfolio: **N/A**
+- Email: **gabrieljustinodh@gmail.com**
 
 ---
 
-> *"Security is not a feature added at the end of development—it is an engineering discipline built into every decision."*
+> *"Expertise is built one problem at a time."*
