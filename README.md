@@ -47,35 +47,35 @@ My experience combines backend software engineering with cybersecurity principle
 ## 🔒 Security Projects
 
 ### 🛡️ [Security Hardening using NIST Cybersecurity Framework](https://github.com/odhjustingabriel/security-hardening-NIST-CSF)
-NIST CSF • Risk Assessment • Security Controls
+**NIST CSF • Risk Assessment • Security Controls**
 
 Comprehensive security posture assessment using the NIST Cybersecurity Framework, identifying organizational risks and recommending security improvements.
 
 ---
 
 ### 🚨 [BEC Triage System](https://github.com/odhjustingabriel/bec-triage-system)
-**Tools:** Python • Email Security • Threat Analysis
+**Python • Email Security • Threat Analysis**
 
 Desktop tool that assists security analysts in triaging Business Email Compromise (BEC) incidents by collecting and organizing email artifacts for investigation.
 
 ---
 
 ### 🔍 [IOC Triage Tool](https://github.com/odhjustingabriel/ioc-triage-tool)
-**Tools:** Python • VirusTotal API • Threat Intelligence • REST APIs
+**Python • VirusTotal API • Threat Intelligence • REST APIs**
 
 Security utility for analyzing Indicators of Compromise (IOCs) by enriching IP addresses, domains, URLs, and file hashes with threat intelligence.
 
 ---
 
 ### 🔐 [Secure IT Helpdesk](https://github.com/odhjustingabriel/secure-IT-helpdesk-ticketing-system)
-**Tools:** Django • PostgreSQL • Authentication • Role-Based Access Control
+**Django • SQLite • Authentication • Role-Based Access Control**
 
 Secure IT helpdesk application featuring authentication, role-based access control, ticket management, and audit-focused system design.
 
 ---
 
 ### 📒 [Incident Handler's Journal]()
-**Tools:** Network Analysis • Digital Forensics • Incident Response
+**Network Analysis • Digital Forensics • Incident Response**
 
 Collection of documented security investigations covering phishing analysis, suspicious network activity, and incident response exercises.
 
@@ -84,7 +84,7 @@ Collection of documented security investigations covering phishing analysis, sus
 ## 🔐 Middleware & Backend Projects
 
 ### 💳 [OpenFloat M-Pesa Middleware Platform]()
-**Tools:** Java • Spring Boot • PostgreSQL • Docker • REST APIs • OAuth
+**Java • Spring Boot • PostgreSQL • Docker • REST APIs • OAuth**
 
 Enterprise middleware providing a secure integration layer between internal business applications and Safaricom M-Pesa APIs.
 
@@ -93,7 +93,7 @@ Enterprise middleware providing a secure integration layer between internal busi
 ## 🌐 Full-Stack Projects
 
 ### 🌍 [Htundla Safaris](https://github.com/odhjustingabriel/Htundla-Safaris)
-**Tools:** Django • PostgreSQL • HTML • CSS • JavaScript
+**Django • SQLite • HTML • CSS • JavaScript**
 
 Full-stack tourism platform supporting destination management, bookings, and administrative operations.
 
