@@ -61,7 +61,7 @@ Desktop tool that assists security analysts in triaging Business Email Compromis
 ---
 
 ### 🔍 [IOC Triage Tool](https://github.com/odhjustingabriel/ioc-triage-tool)
-**Python • VirusTotal API • Threat Intelligence • REST APIs**
+**Python • Threat Intelligence • REST APIs**
 
 Security utility for analyzing Indicators of Compromise (IOCs) by enriching IP addresses, domains, URLs, and file hashes with threat intelligence.
 
@@ -110,17 +110,22 @@ Full-stack web application for a rural farm business, enabling customers to brow
 
 # 🛠 Technical Skills
 
-| Category | Technologies |
+| Category | Tools & Technologies |
 |-----------|--------------|
-| Programming | Java, Python, C#, SQL |
-| Backend Development | Django, Spring Boot, ASP.NET |
-| Databases | PostgreSQL, MySQL |
-| Security | Secure SDLC, NIST CSF, OWASP Top 10 |
-| API Development | REST APIs, JSON, OAuth |
-| Payment Systems | M-Pesa APIs |
-| Version Control | Git, GitHub |
-| Development Tools | Docker |
-| Operating Systems | Linux, Windows |
+| **Programming** | Java, Python, C#, SQL |
+| **Backend Development** | Django, Spring Boot, ASP.NET |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+| **Security** | Secure SDLC |
+| **API Development** | REST APIs, JSON, OAuth |
+| **Payment Systems** | M-Pesa Daraja API |
+| **Version Control** | Git, GitHub |
+| **Development Tools** | Docker |
+| **Detection & Response** | Wazuh SIEM |
+| **SOAR & Automation** | Python (Scripting), Bash |
+| **Network Security** | Wireshark, Tcpdump, Nmap, SSL/TLS (OpenSSL) |
+| **Analysis & Intel** | VirusTotal API, Log Analysis (Apache, Syslog, SIEM) |
+| **Compliance & Frameworks** | MITRE ATT&CK, NIST CSF, OWASP Top 10 |
+| **Virtualization** | Linux (Ubuntu/Kali), Windows, UTM Hypervisor |
 
 ---
 
@@ -150,7 +155,6 @@ Full-stack web application for a rural farm business, enabling customers to brow
 <img src="https://img.shields.io/badge/NIST_CSF-003366?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
