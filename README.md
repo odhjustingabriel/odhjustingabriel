@@ -51,7 +51,7 @@ I'm building my cybersecurity foundation through networking, defensive security,
 
 ## 🔐 Middleware & Backend Projects
 
-### 💳 OpenFloat M-Pesa Middleware Platform
+### 💳 [OpenFloat M-Pesa Middleware Platform](https://github.com/odhjustingabriel/OpenFloat-M-Pesa-Middleware-Platform)
 **Java • Spring Boot • PostgreSQL • Docker • REST APIs • OAuth**
 
 Enterprise middleware providing a secure integration layer between internal business applications and Safaricom M-Pesa APIs.
